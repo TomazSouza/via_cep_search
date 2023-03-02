@@ -1,6 +1,6 @@
 name: via_cep_search
 description: Package para consulta de endereço via cep
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/TomazSouza/via_cep_search
 
 environment:
