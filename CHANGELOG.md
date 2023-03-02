@@ -1,3 +1,3 @@
-## 1.0.0 - Priemeiro Release.
+## 1.0.1 - Priemeiro Release.
 
 * TODO: Describe initial release.
